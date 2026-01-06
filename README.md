@@ -1,80 +1,192 @@
-# 🚀 Himanshu Gupta | Full-Stack Developer
+<div align="center">
 
-**Final Year BCA Student @ Lovely Professional University**
+# Himanshu Gupta
+## Full-Stack Developer & Software Engineer
 
-> Building scalable ecosystems for logistics, legal-tech, and civic engagement.
+**Final Year BCA Student** | Lovely Professional University
 
----
+*Architecting scalable ecosystems for logistics, legal-tech, and civic engagement*
 
-## 🛠️ Technical Proficiency
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-| Category | Tools & Technologies |
-|----------|---------------------|
-| **Frontend / Mobile** | React Native, Next.js, React.js, Material-UI, Redux Toolkit |
-| **Backend** | Node.js, Express.js, Passport.js, JWT Auth |
-| **Database** | MongoDB (Geo Indexes), PostgreSQL, Supabase |
-| **Cloud & DevOps** | AWS Elastic Beanstalk, S3 Storage, AWS RDS, Vercel |
-| **APIs / Services** | OpenAI GPT-4o, Razorpay, Twilio, Firebase Push |
+</div>
 
 ---
 
-## 🏗️ Featured Projects
+## � Technical Expertise
 
-### HP Vensync
-**Role:** Module Lead (Vendor)
-- Digitized M&R workflow for HPCL retail outlets
-- Developed GPS-tagged "Before & After" photo verification and OTP-based work authorization
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### NeuroNavigator
-**Role:** Full-Stack Developer
-- Built an "API-First" AI app for field staff
-- Integrated OpenAI to transform voice logs into professional government-standard PDF reports
+### Frontend & Mobile
+- React Native
+- Next.js & React.js
+- Material-UI
+- Redux Toolkit
 
-### BuyLawBooks
-**Role:** Lead User Backend
-- Developed a legal-niche e-commerce platform with Razorpay integration
-- Built a secure "Digital Library" for e-books and video lectures
+### Backend Development
+- Node.js & Express.js
+- Passport.js
+- JWT Authentication
 
-### SaathiConnect
-**Role:** Backend & Mobile
-- Created a civic issue reporting platform featuring multi-lingual support (12+ languages)
-- Implemented intelligent zonal routing via GPS
+</td>
+<td width="50%" valign="top">
 
----
+### Database Management
+- MongoDB (Geo Indexes)
+- PostgreSQL
+- Supabase
 
-## 🔬 Deep Dive: System Architecture
+### Cloud & DevOps
+- AWS (Elastic Beanstalk, S3, RDS)
+- Vercel Deployment
 
-I specialize in **Multi-tier Architectures** that connect disparate stakeholders (Dealers, Vendors, and Officers) into a unified "TechConnect" platform.
+### APIs & Services
+- OpenAI GPT-4o
+- Razorpay, Twilio, Firebase Push
 
-- **Real-Time Capabilities:** Implementing WebSockets for live vendor tracking on map views
-- **Security First:** Expertise in Role-Based Access Control (RBAC), end-to-end data encryption, and JWT authentication
-- **Offline Functionality:** Designing mobile apps with offline storage to ensure reliability in areas with poor connectivity
-
----
-
-## 🤝 Collaborative Network
-
-I frequently partner with talented developers to bring high-level visions to life:
-
-| Collaborator | Expertise |
-|--------------|-----------|
-| **Saad Mohammad Shibli** | Frequent collaborator on Module Lead roles (Admin/Backend) |
-| **Manglam Shukla** | Partner in Australian logistics and freelancing initiatives |
-| **Anurag Kumar** | Infrastructure and site security specialist |
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Interests & Beyond
+## 🚀 Featured Projects
 
-- **Logical Reasoning:** Passionate about solving complex clock and calendar-based logic puzzles
-- **Heritage:** Deeply interested in Indian history, mythology, and the terminology of ancient written records
-- **Innovation:** Currently scaling Quicksy, a hyper-local e-commerce startup
+<details open>
+<summary><b>🛢️ HP Vensync</b> — Module Lead (Vendor)</summary>
+<br>
+
+> Enterprise-grade digitization solution for HPCL retail outlet maintenance workflows
+
+**Key Achievements:**
+- ✅ Digitized end-to-end M&R workflow for HPCL retail outlets
+- 📍 Implemented GPS-tagged "Before & After" photo verification system
+- 🔐 Developed OTP-based work authorization for enhanced security
+
+**Tech Stack:** `React Native` `Node.js` `MongoDB` `AWS S3`
+
+</details>
+
+<details open>
+<summary><b>🧠 NeuroNavigator</b> — Full-Stack Developer</summary>
+<br>
+
+> AI-powered field operations assistant transforming voice data into actionable reports
+
+**Key Achievements:**
+- 🤖 Built "API-First" architecture for seamless AI integration
+- 🎤 Integrated OpenAI GPT-4o to convert voice logs into government-standard PDF reports
+- 📱 Optimized for field staff with offline-first capabilities
+
+**Tech Stack:** `Next.js` `OpenAI API` `PostgreSQL` `AWS`
+
+</details>
+
+<details open>
+<summary><b>⚖️ BuyLawBooks</b> — Lead Backend Developer</summary>
+<br>
+
+> Legal-niche e-commerce platform with secure digital content delivery
+
+**Key Achievements:**
+- 💳 Integrated Razorpay payment gateway for seamless transactions
+- 📚 Built secure "Digital Library" system for e-books and video lectures
+- 🔒 Implemented DRM protection for digital content
+
+**Tech Stack:** `Node.js` `Express` `MongoDB` `Razorpay` `AWS S3`
+
+</details>
+
+<details open>
+<summary><b>🌍 SaathiConnect</b> — Backend & Mobile Developer</summary>
+<br>
+
+> Civic engagement platform enabling citizens to report and track local issues
+
+**Key Achievements:**
+- 🌐 Multi-lingual support across 12+ languages
+- 📍 Intelligent zonal routing using GPS-based location services
+- 🔔 Real-time notifications via Firebase Push
+
+**Tech Stack:** `React Native` `Node.js` `PostgreSQL` `Firebase` `Twilio`
+
+</details>
 
 ---
 
-## 📫 Connect with Me
+## 🏛️ Architecture & Design Philosophy
 
-<!-- Add your contact links here -->
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/your-profile]
-- 🐙 GitHub: [github.com/your-username]
+I specialize in building **scalable multi-tier architectures** that seamlessly connect multiple stakeholders (Dealers, Vendors, Officers) into unified platforms.
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### ⚡ Real-Time Systems
+WebSocket implementation for live tracking and instant updates
+
+</td>
+<td width="33%" align="center">
+
+### 🔐 Security First
+RBAC, E2E encryption, and JWT authentication
+
+</td>
+<td width="33%" align="center">
+
+### 📱 Offline-First
+Reliable mobile apps with local storage sync
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Beyond Code
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+🧩 **Problem Solving**
+
+Passionate about complex logic puzzles and algorithmic challenges
+
+</td>
+<td width="33%" align="center">
+
+📜 **Cultural Heritage**
+
+Deep interest in Indian history, mythology, and ancient texts
+
+</td>
+<td width="33%" align="center">
+
+🚀 **Entrepreneurship**
+
+Currently scaling **Quicksy**, a hyper-local e-commerce startup
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📬 Let's Connect
+
+*Open to collaboration opportunities and full-stack development roles*
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+
+</div>
