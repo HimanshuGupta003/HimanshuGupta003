@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-3+%20Years-blue?style=flat-square" alt="experience"/>
+  <img src="https://img.shields.io/badge/Experience-2+%20Years-blue?style=flat-square" alt="experience"/>
   <img src="https://img.shields.io/badge/Projects-10+-success?style=flat-square" alt="projects"/>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-orange?style=flat-square" alt="focus"/>
 </p>
