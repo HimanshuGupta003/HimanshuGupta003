@@ -1,1 +1,80 @@
-<p align="center">👋 Hi, I'm Himanshu Gupta!</p><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical" alt="GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=vision-friendly-dark" alt="Top Langs" /></p>🚀 About MeI am a Full-Stack & Mobile Developer currently in my final year of BCA at Lovely Professional University1111. I specialize in the "TechConnect" philosophy—building unified platforms that bridge communication gaps between stakeholders through real-time data and safety-first logic2222222.🛠️ Tech Stack & ToolsCategorySkills & BadgesFrontend / MobileBackendDatabaseCloud / DevOps🏗️ Major Project PortfolioI take pride in architecting systems that solve real-world industrial and civic problems.⛽ HP Vensync | Module Lead - Vendor * Objective: Digitized the end-to-end Maintenance & Repair (M&R) lifecycle for HPCL3333.Key Contribution: Built the Vendor Mobile App featuring mandatory digital Safety Checklists and GPS-tagged "Before & After" photo verification to prevent fraud444444444.Tech: React Native, Node.js, MongoDB with Geo-Indexes5.⚖️ BuyLawBooks | Lead User Backend & Full StackObjective: A specialized e-commerce ecosystem for the Indian legal community6666.Key Contribution: Engineered the secure Digital Library for immediate access to e-books and video lectures and integrated Razorpay for seamless transactions7777777.Tech: Next.js (React), PostgreSQL, AWS RDS8.🧠 NeuroNavigator | AI Field Reporting App (MVP)Objective: AI-powered field reporting for Job Coaches to convert voice logs into professional PDF reports9.Key Contribution: Implemented OpenAI GPT-4o for auto-tagging and a hybrid Lone Worker Safety (SOS) system using Twilio10101010.Tech: Next.js, Supabase, OpenAI API111111111111111111.🏙️ SaathiConnect | Civic Issue Reporting PlatformObjective: Bridging the gap between citizens and municipal corporations12.Key Contribution: Developed Offline-First reporting and Intelligent Zonal Routing to automatically assign issues to the correct department based on coordinates13131313.Tech: React Native, Node.js, Multi-lingual Support (12+ languages)14.👥 Team CollaborationsI thrive in collaborative environments, often acting as a Module Lead within a high-performing team including:Saad Mohammad Shibli: Partner in Full-Stack development and system architecture151515.Anurag Kumar: Lead for Infrastructure, AWS cloud setup, and Security16.📫 Connect with Me<p align="left"><a href="https://linkedin.com/in/[YOUR_LINK]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
+# 🚀 Himanshu Gupta | Full-Stack Developer
+
+**Final Year BCA Student @ Lovely Professional University**
+
+> Building scalable ecosystems for logistics, legal-tech, and civic engagement.
+
+---
+
+## 🛠️ Technical Proficiency
+
+| Category | Tools & Technologies |
+|----------|---------------------|
+| **Frontend / Mobile** | React Native, Next.js, React.js, Material-UI, Redux Toolkit |
+| **Backend** | Node.js, Express.js, Passport.js, JWT Auth |
+| **Database** | MongoDB (Geo Indexes), PostgreSQL, Supabase |
+| **Cloud & DevOps** | AWS Elastic Beanstalk, S3 Storage, AWS RDS, Vercel |
+| **APIs / Services** | OpenAI GPT-4o, Razorpay, Twilio, Firebase Push |
+
+---
+
+## 🏗️ Featured Projects
+
+### HP Vensync
+**Role:** Module Lead (Vendor)
+- Digitized M&R workflow for HPCL retail outlets
+- Developed GPS-tagged "Before & After" photo verification and OTP-based work authorization
+
+### NeuroNavigator
+**Role:** Full-Stack Developer
+- Built an "API-First" AI app for field staff
+- Integrated OpenAI to transform voice logs into professional government-standard PDF reports
+
+### BuyLawBooks
+**Role:** Lead User Backend
+- Developed a legal-niche e-commerce platform with Razorpay integration
+- Built a secure "Digital Library" for e-books and video lectures
+
+### SaathiConnect
+**Role:** Backend & Mobile
+- Created a civic issue reporting platform featuring multi-lingual support (12+ languages)
+- Implemented intelligent zonal routing via GPS
+
+---
+
+## 🔬 Deep Dive: System Architecture
+
+I specialize in **Multi-tier Architectures** that connect disparate stakeholders (Dealers, Vendors, and Officers) into a unified "TechConnect" platform.
+
+- **Real-Time Capabilities:** Implementing WebSockets for live vendor tracking on map views
+- **Security First:** Expertise in Role-Based Access Control (RBAC), end-to-end data encryption, and JWT authentication
+- **Offline Functionality:** Designing mobile apps with offline storage to ensure reliability in areas with poor connectivity
+
+---
+
+## 🤝 Collaborative Network
+
+I frequently partner with talented developers to bring high-level visions to life:
+
+| Collaborator | Expertise |
+|--------------|-----------|
+| **Saad Mohammad Shibli** | Frequent collaborator on Module Lead roles (Admin/Backend) |
+| **Manglam Shukla** | Partner in Australian logistics and freelancing initiatives |
+| **Anurag Kumar** | Infrastructure and site security specialist |
+
+---
+
+## 🧠 Interests & Beyond
+
+- **Logical Reasoning:** Passionate about solving complex clock and calendar-based logic puzzles
+- **Heritage:** Deeply interested in Indian history, mythology, and the terminology of ancient written records
+- **Innovation:** Currently scaling Quicksy, a hyper-local e-commerce startup
+
+---
+
+## 📫 Connect with Me
+
+<!-- Add your contact links here -->
+- 📧 Email: [your-email@example.com]
+- 💼 LinkedIn: [linkedin.com/in/your-profile]
+- 🐙 GitHub: [github.com/your-username]
