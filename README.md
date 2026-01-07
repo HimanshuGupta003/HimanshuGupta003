@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Himanshu%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%26%20Software%20Engineer&descAlignY=51&descAlign=50" width="100%"/>
+<h1>Himanshu Gupta</h1>
 
 ### Final Year BCA Student | Lovely Professional University
 
